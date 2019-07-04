@@ -217,28 +217,20 @@ const Home = () => (
               </div>
             </div>
           </div>
-          <div class="col-lg-4  col-md-6 col-sm-6">
+          <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="single-footer-widget">
-              <h6>Newsletter</h6>
-              <p>
-                If you want to stay in touch with the project, leave your email
-                here!
-              </p>
-              <div id="mc_embed_signup">
-                <form name="newsletter" method="POST" data-netlify="true">
-                  <div class="input-group d-flex flex-row">
-                    <input
-                      name="email"
-                      placeholder="Email Address"
-                      required=""
-                      type="email"
-                    />
-                    <button type="submit" class="btn bb-btn">
-                      Save
-                    </button>
-                  </div>
-                  <div class="mt-10 info" />
-                </form>
+              <h6>Social</h6>
+              <div class="row">
+                <div class="col">
+                  <ul>
+                    <li>
+                      <a href="https://facebook.com/locationdiary">Facebook</a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/locationdiary">Twitter</a>
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
