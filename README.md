@@ -1,3 +1,5 @@
+**Note: the website has been integrated in the [main repository](https://github.com/locationdiary/locationdiary)**
+
 # Location Diary Website
 
 ## CLI Commands
